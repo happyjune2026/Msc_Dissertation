@@ -1,0 +1,7 @@
+﻿City,Country,Sample_Type,UHI,Position_among_62,Tier_KMeans,Archetype_Ward,Archetype_Name,DEM_star,ECO_star,TRA_star,FUN_star
+Beijing,China,External_Case,1.294,7,1,4,Population–Function-oriented,2.054,0.580,0.620,1.922
+Shanghai,China,External_Case,1.223,9,1,4,Population–Function-oriented,2.188,0.511,0.717,1.478
+Singapore,Singapore,External_Case,0.873,15,1,2,Economy-oriented,0.613,2.294,0.646,-0.060
+Guangzhou,China,External_Case,0.750,17,2,4,Population–Function-oriented,1.897,0.032,0.008,1.063
+Shenzhen,China,External_Case,0.744,18,2,4,Population–Function-oriented,1.833,0.334,0.443,0.368
+Hong Kong,China (Hong Kong SAR),External_Case,0.418,19,2,5,Population–Economy-oriented,0.931,0.838,-0.069,-0.026
