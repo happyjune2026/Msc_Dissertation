@@ -1,0 +1,57 @@
+﻿ID,Country,ISO3,Rank_in_Country,FUA_Code,FUA_Name,Core_City,Population,GDP_per_capita_PPP_USD,Population_Density_persons_per_km2,Universities,Hospitals,Airports,Railway_Stations,Data_Source,Year,Notes,Total_GDP_PPP_USD_million,Road_Density_km_per_km2
+1,United Kingdom,GBR,1,UK001F,London,London,"12,274,097","79,285","1,785",95,219,4,534,OECD FUA,2021,GDP per capita calculated from OECD 2021 total GDP PPP (USD million) and population.,"973,152",4.9842
+2,United Kingdom,GBR,2,UK008F,Manchester,Manchester,"3,432,092","48,386","1,090",15,58,1,127,OECD FUA,2021,GDP per capita calculated from OECD 2021 total GDP PPP (USD million) and population.,"166,065",4.5763
+3,United Kingdom,GBR,3,UK002F,West Midlands urban area,West Midlands urban area,"3,135,994","40,903","1,452",27,69,1,91,OECD FUA,2021,GDP per capita calculated from OECD 2021 total GDP PPP (USD million) and population.,"128,270",5.6101
+4,United Kingdom,GBR,4,UK003F,Leeds,Leeds,"2,969,034","39,933",520,16,46,1,95,OECD FUA,2021,GDP per capita calculated from OECD 2021 total GDP PPP (USD million) and population.,"118,562",2.7555
+5,United Kingdom,GBR,5,UK004F,Glasgow,Glasgow,"1,831,890","47,216",549,8,39,1,158,OECD FUA,2021,GDP per capita calculated from OECD 2021 total GDP PPP (USD million) and population.,"86,495",2.9584
+6,United Kingdom,GBR,6,UK006F,Liverpool,Liverpool,"1,540,817","41,231","1,565",10,48,1,94,OECD FUA,2021,GDP per capita calculated from OECD 2021 total GDP PPP (USD million) and population.,"63,530",6.4370
+7,United Kingdom,GBR,7,UK013F,Newcastle upon Tyne,Newcastle upon Tyne,"1,173,303","39,410",220,6,33,1,31,OECD FUA,2021,GDP per capita calculated from OECD 2021 total GDP PPP (USD million) and population.,"46,240",1.6412
+8,United Kingdom,GBR,8,UK010F,Sheffield,Sheffield,"1,168,389","39,046",958,6,23,0,21,OECD FUA,2021,GDP per capita calculated from OECD 2021 total GDP PPP (USD million) and population.,"45,621",4.2747
+9,France,FRA,1,FR001F,Paris,Paris,"13,127,446","83,089",690,159,329,3,513,OECD FUA,2021,,"1,094,374",3.0163
+10,France,FRA,2,FR002F,Lyon,Lyon,"2,260,740","66,035",495,31,63,1,46,OECD FUA,2021,,"152,464",3.9753
+11,France,FRA,3,FR004F,Marseille,Marseille,"1,750,660","65,174",473,34,50,1,23,OECD FUA,2021,,"123,099",3.1126
+12,France,FRA,4,FR003F,Lille,Lille,"1,577,213","46,650",908,19,45,1,84,OECD FUA,2021,,"70,986",4.8806
+13,France,FRA,5,FR006F,Toulouse,Toulouse,"1,482,247","56,971",224,27,37,1,25,OECD FUA,2021,,"84,923",2.8393
+14,France,FRA,6,FR005F,Bordeaux,Bordeaux,"1,414,498","52,131",215,24,36,1,32,OECD FUA,2021,,"72,658",2.2696
+15,France,FRA,7,FR007F,Nantes,Nantes,"1,029,335","53,963",290,15,24,1,12,OECD FUA,2021,,"55,687",3.5114
+16,France,FRA,8,FR009F,Strasbourg,Strasbourg,"852,382","51,343",383,23,27,1,61,OECD FUA,2021,,"44,411",2.6785
+17,Germany,DEU,1,DE001F,Berlin,Berlin,"5,022,203","58,282",549,75,85,1,178,OECD FUA,2021,,"290,239",2.1137
+18,Germany,DEU,2,DE002F,Hamburg,Hamburg,"3,241,659","75,621",451,33,48,2,132,OECD FUA,2021,,"258,762",2.4507
+19,Germany,DEU,3,DE003F,München,München,"2,974,100","101,318",504,53,67,1,109,OECD FUA,2021,,"305,658",2.7237
+20,Germany,DEU,4,DE005F,Frankfurt am Main,Frankfurt am Main,"2,671,718","82,549",731,24,57,1,130,OECD FUA,2021,,"221,113",3.2390
+21,Germany,DEU,5,DE007F,Stuttgart,Stuttgart,"2,553,952","81,039",900,27,37,1,85,OECD FUA,2021,,"205,114",4.0254
+22,Germany,DEU,6,DE004F,Köln,Köln,"2,352,803","69,292","1,054",23,42,1,39,OECD FUA,2021,,"153,516",4.3711
+23,Germany,DEU,7,DE006F,Ruhrgebiet,Ruhrgebiet,"1,863,937","49,406","1,155",41,118,1,85,OECD FUA,2021,,"250,437",5.1210
+24,Germany,DEU,8,DE011F,Düsseldorf,Düsseldorf,"1,671,401","86,490","1,366",10,34,1,27,OECD FUA,2021,,"126,700",5.1649
+25,United States,USA,1,USA01F,New York (Greater),New York (Greater),"20,458,991","88,903",830,103,207,8,347,OECD FUA,2021,,"1,819,456",4.4764
+26,United States,USA,2,USA02F,Los Angeles (Greater),Los Angeles (Greater),"17,614,692","67,975",212,92,224,8,78,OECD FUA,2021,,"1,197,491",1.2987
+27,United States,USA,3,USA03F,Chicago,Chicago,"9,530,489","71,429",498,67,127,3,237,OECD FUA,2021,,"680,366",3.8625
+28,United States,USA,4,USA04F,Washington (Greater),Washington (Greater),"9,264,760","81,006",386,99,91,3,56,OECD FUA,2021,,"750,097",3.3468
+29,United States,USA,5,USA07F,Dallas,Dallas,"8,032,137","68,442",225,42,141,4,29,OECD FUA,2021,,"549,589",2.8527
+30,United States,USA,6,USA08F,Houston,Houston,"7,319,566","67,597",246,21,122,2,5,OECD FUA,2021,,"494,648",2.7546
+31,United States,USA,7,USA06F,Philadelphia (Greater),Philadelphia (Greater),"6,636,662","70,179",501,75,109,3,238,OECD FUA,2021,,"465,679",4.1665
+32,United States,USA,8,USA05F,San Francisco (Greater),San Francisco (Greater),"6,566,774","146,666",489,62,88,5,52,OECD FUA,2021,,"963,632",2.7145
+33,Canada,CAN,1,CAN01F,Toronto,Toronto,"7,236,120","62,178",481,22,57,3,60,Statistics Canada + OECD PPP (harmonised proxy),2021,Canada harmonised proxy: 2021 StatCan CMA GDP converted with OECD GDP PPP; per-capita retained; total GDP population-scaled to OECD FUA population. See Canada_GDP_Audit.,"449,929",2.4097
+34,Canada,CAN,2,CAN02F,Montreal,Montreal,"4,575,140","50,274",382,28,60,3,64,Statistics Canada + OECD PPP (harmonised proxy),2021,Canada harmonised proxy: 2021 StatCan CMA GDP converted with OECD GDP PPP; per-capita retained; total GDP population-scaled to OECD FUA population. See Canada_GDP_Audit.,"230,012",2.5005
+35,Canada,CAN,3,CAN03F,Vancouver,Vancouver,"2,635,715","56,929",914,21,18,2,14,Statistics Canada + OECD PPP (harmonised proxy),2021,Canada harmonised proxy: 2021 StatCan CMA GDP converted with OECD GDP PPP; per-capita retained; total GDP population-scaled to OECD FUA population. See Canada_GDP_Audit.,"150,049",3.4208
+36,Canada,CAN,4,CAN05F,Calgary,Calgary,"1,614,615","63,492",96,7,13,1,4,Statistics Canada + OECD PPP (harmonised proxy),2021,Canada harmonised proxy: 2021 StatCan CMA GDP converted with OECD GDP PPP; per-capita retained; total GDP population-scaled to OECD FUA population. See Canada_GDP_Audit.,"102,515",1.3050
+37,Canada,CAN,5,CAN04F,Ottawa,Ottawa,"1,568,985","57,544",132,8,21,3,6,Statistics Canada + OECD PPP (harmonised proxy),2021,Canada harmonised proxy: 2021 StatCan CMA GDP converted with OECD GDP PPP; per-capita retained; total GDP population-scaled to OECD FUA population. See Canada_GDP_Audit.,"90,286",1.4734
+38,Canada,CAN,6,CAN06F,Edmonton,Edmonton,"1,450,665","54,160",78,8,27,1,5,Statistics Canada + OECD PPP (harmonised proxy),2021,Canada harmonised proxy: 2021 StatCan CMA GDP converted with OECD GDP PPP; per-capita retained; total GDP population-scaled to OECD FUA population. See Canada_GDP_Audit.,"78,567",1.3243
+39,Canada,CAN,7,CAN07F,Quebec,Quebec,"920,490","53,991",125,7,18,1,5,Statistics Canada + OECD PPP (harmonised proxy),2021,Canada harmonised proxy: 2021 StatCan CMA GDP converted with OECD GDP PPP; per-capita retained; total GDP population-scaled to OECD FUA population. See Canada_GDP_Audit.,"49,699",1.2541
+40,Canada,CAN,8,CAN08F,Winnipeg,Winnipeg,"903,630","48,424",68,4,16,3,2,Statistics Canada + OECD PPP (harmonised proxy),2021,Canada harmonised proxy: 2021 StatCan CMA GDP converted with OECD GDP PPP; per-capita retained; total GDP population-scaled to OECD FUA population. See Canada_GDP_Audit.,"43,757",1.2423
+41,Japan,JPN,1,JPN01F,Tokyo,Tokyo,"36,803,277","50,287","3,238",299,1303,3,1202,OECD FUA,2021,,"1,841,767",10.2870
+42,Japan,JPN,2,JPN02F,Osaka,Osaka,"17,006,838","41,497","1,916",188,909,3,906,OECD FUA,2021,,"695,420",7.7637
+43,Japan,JPN,3,JPN03F,Nagoya,Nagoya,"8,685,436","48,907","1,140",73,366,2,455,OECD FUA,2021,,"420,647",8.7609
+44,Japan,JPN,4,JPN04F,Fukuoka,Fukuoka,"2,854,986","36,196","1,778",21,189,1,122,OECD FUA,2021,,"97,206",9.3605
+45,Japan,JPN,5,JPN05F,Sapporo,Sapporo,"2,232,726","37,704",809,27,153,1,38,OECD FUA,2021,,"80,318",4.1536
+46,Japan,JPN,6,JPN06F,Sendai,Sendai,"1,574,959","40,089",789,20,61,1,68,OECD FUA,2021,,"60,040",5.5995
+47,Japan,JPN,7,JPN07F,Okayama,Okayama,"1,534,416","38,809",542,20,120,1,90,OECD FUA,2021,,"57,153",6.3108
+48,Japan,JPN,8,JPN08F,Hiroshima,Hiroshima,"1,463,193","41,505",751,15,90,0,59,OECD FUA,2021,,"58,615",4.2994
+49,South Korea,KOR,1,KOR01F,Seoul,Seoul,"24,352,950","50,283","3,599",152,383,1,251,OECD FUA,2021,,"1,213,734",5.3891
+50,South Korea,KOR,2,KOR02F,Busan,Busan,"4,464,838","37,263","1,787",37,158,1,42,OECD FUA,2021,,"165,999",3.9925
+51,South Korea,KOR,3,KOR03F,Daegu,Daegu,"2,385,412","29,973","2,732",16,48,1,4,OECD FUA,2021,,"71,558",4.9842
+52,South Korea,KOR,4,KOR04F,Gwangju,Gwangju,"1,550,415","37,265",891,12,80,1,8,OECD FUA,2021,,"57,650",2.8049
+53,South Korea,KOR,5,KOR05F,Daejeon,Daejeon,"1,452,251","37,813","2,699",19,20,0,3,OECD FUA,2021,,"54,814",5.4993
+54,South Korea,KOR,6,KOR06F,Changwon,Changwon,"1,095,288","40,881",931,7,20,0,6,OECD FUA,2021,,"44,662",3.4720
+55,South Korea,KOR,7,KOR07F,Ulsan,Ulsan,"899,533","82,920","2,948",4,9,1,3,OECD FUA,2021,,"74,838",5.2483
+56,South Korea,KOR,8,KOR08F,Cheongju,Cheongju,"884,908","57,259",855,10,11,1,7,OECD FUA,2021,,"50,353",3.8317
